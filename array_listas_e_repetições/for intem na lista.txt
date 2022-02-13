@@ -1,0 +1,18 @@
+
+usar o for para contar os intem na lista
+
+for intem in lista:
+
+
+
+for i in range(fim ou len(lista):
+
+
+for i in range(init, fim):
+
+for i in range(init, fim, passos):
+
+
+
+
+

@@ -1,0 +1,26 @@
+
+
+numeros = [1,2,3,4,5,6,7,8,9,10]
+
+numeros[1:2]     << pega o objeto 1 até o objeto 2 no caso 0,1,[2]
+[2]
+ 
+numeros[2:7]     < pega do objeto 2 até 7
+
+numeros[0:12]   < inicio facil
+numeros[:12]    << facil
+
+
+deleta lista
+
+ usar comando del para exclui e append para adicionar
+
+ numeros.apeend[1,2,"numeros"]
+
+
+del numeros[1:5]
+
+
+
+
+ 

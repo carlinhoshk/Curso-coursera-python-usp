@@ -1,0 +1,7 @@
+colocar uma variavel True que pode ser modificada dentro da estrutura de repetição
+
+teste = true
+
+while i >=0:
+  if i <=:
+   teste = false
